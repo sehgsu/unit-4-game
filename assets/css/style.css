@@ -1,0 +1,25 @@
+.container1 {
+    background-color: #dd3f;
+    padding: 10px;
+    margin: 5px;
+    border: 1px solid grey
+    
+}
+h2 {
+    border-bottom: 1px solid black
+}
+.crystals {
+    width: 150px;
+    align-content: center;
+    
+}
+.container2 {
+    margin: 5px;
+    padding: 10px; 
+}
+.scoretext {
+    font-size: 25px;
+}
+body {
+    background-image: url(../images/round.png)
+}
